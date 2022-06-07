@@ -37,10 +37,6 @@ Using Max/MSP a spatalized audio experience is created through a 8 channel sound
 
 In order for the public to be able to contribute new audios 'on the fly' while the installation is running, a simple online platform was created where using a QR-code the public could submit audios with their own cellphone devices. 
 
-## Simulation
-
-<iframe width="800" height="600" src="https://mneunomne.github.io/pandemic-archive-installation/"></iframe>
-
 ### Video
 
 [The living body is the center of all politics - Video](https://vimeo.com/manage/videos/712561027)
